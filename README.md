@@ -26,6 +26,7 @@ Currently preparing for **CompTIA A+**.
 |---|---|
 | [Active Directory Home Lab – Deploy and Configure AD](https://github.com/solomonyohanis/active-directory-home-lab) | VirtualBox · Windows Server 2019 · Domain Controller setup · OU and user management · Domain join |
 | [Group Policy Management Lab – Configure and Enforce GPOs](https://github.com/solomonyohanis/group-policy-management-lab) | Password policy · Control Panel restriction · gpupdate · Policy verification on client machine |
+| [File Shares – Managing Permissions with Security Groups](https://github.com/solomonyohanis/ad-file-shares-permissions-lab) | Network file shares · share permissions · security groups · RBAC · access verification |
 
 ---
 
