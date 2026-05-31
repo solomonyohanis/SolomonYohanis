@@ -18,9 +18,9 @@ Currently preparing for **CompTIA A+**.
 
 ---
 
-## IT Projects & Home Labs
+## IT Support Projects
 
-## 01 · osTicket — Help Desk Ticketing System
+## 01 · Help Desk Ticketing System (osTicket)
 
 | Project | Notes |
 |---|---|
