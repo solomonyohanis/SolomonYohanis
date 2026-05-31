@@ -20,7 +20,15 @@ Currently preparing for **CompTIA A+**.
 
 ## IT Projects & Home Labs
 
-### 01 · Active Directory & Domain Services
+## 01 · osTicket — Help Desk Ticketing System
+
+| Project | Notes |
+|---|---|
+| [osTicket – Prerequisites and Installation](https://github.com/solomonyohanis/osticket-prerequisites-and-installation) | VirtualBox · Windows 11 VM · IIS · PHP · MySQL · osTicket v1.18 installation |
+| [osTicket – Post-Install Configuration](https://github.com/solomonyohanis/osticket-post-install-config) | Roles · Departments · Teams · Agents · Users · SLA Plans · Help Topics |
+| [osTicket – Ticket Lifecycle (Intake to Resolution)](https://github.com/solomonyohanis/osticket-ticket-lifecycle) | End-user ticket submission · Triage · SLA & Priority updates · DNS resolution · Ticket closure |
+
+### 02 · Active Directory & Domain Services
 
 | Project | Notes |
 |---|---|
