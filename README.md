@@ -41,8 +41,6 @@ Currently preparing for **CompTIA A+**.
 ## Currently Learning
 
 - CompTIA A+ (Core 1 & Core 2)
-- osTicket help desk ticketing system
-- IT Support and Help Desk fundamentals
 
 ---
 
