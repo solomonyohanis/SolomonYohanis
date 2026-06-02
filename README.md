@@ -1,4 +1,4 @@
-# Solomon Debesai
+# Solomon Yohanis
 
 Aspiring IT Support and Help Desk professional building hands-on experience through home labs and self-study. Focused on understanding how enterprise IT environments work from the ground up — including Active Directory, Group Policy, DNS, and help desk ticketing systems.
 
