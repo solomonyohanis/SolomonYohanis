@@ -1,3 +1,5 @@
+<img width="1376" height="416" alt="Gemini_Generated_Image_fa39qafa39qafa39" src="https://github.com/user-attachments/assets/baa4e1ad-bff8-4903-bd72-3bd3b50c12e5" />
+
 # Solomon Yohanis
 
 Aspiring IT Support and Help Desk professional building hands-on experience through home labs and self-study. Focused on understanding how enterprise IT environments work from the ground up — including Active Directory, Group Policy, DNS, and help desk ticketing systems.
