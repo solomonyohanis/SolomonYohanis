@@ -38,6 +38,13 @@ Currently preparing for **CompTIA A+**.
 | [Group Policy Management Lab – Configure and Enforce GPOs](https://github.com/solomonyohanis/group-policy-management-lab) | Password policy · Control Panel restriction · gpupdate · Policy verification on client machine |
 | [File Shares – Managing Permissions with Security Groups](https://github.com/solomonyohanis/ad-file-shares-permissions-lab) | Network file shares · share permissions · security groups · RBAC · access verification |
 
+## 03 · Network, Wi-Fi & Printer Troubleshooting
+
+| Project | Notes |
+|---|---|
+| [Network & Wi-Fi Troubleshooting](https://github.com/solomonyohanis/network-troubleshooting-wifi) | Connection & Signal Issues · IP & DNS Troubleshooting · Wi-Fi Adapter Diagnostics · Router & Access Point Triage · Windows Network Reset Tools |
+| [Printer Support & Management](https://github.com/solomonyohanis/printers) | Offline Status & Queue Issues · Network Printer Deployment · Driver & Compatibility Setup · Hardware & Paper Jam Triage · Print Spooler Service Recovery |
+
 ---
 
 ## Currently Learning
