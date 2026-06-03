@@ -48,4 +48,4 @@ Currently preparing for **CompTIA A+**.
 
 ## Contact
 
-LinkedIn: [solomon-debesai](https://www.linkedin.com/in/solomon-debesai) | GitHub: [solomonyohanis](https://github.com/solomonyohanis)
+LinkedIn: [solomon-yohanis](https://www.linkedin.com/in/solomon-yohanis) | GitHub: [solomonyohanis](https://github.com/solomonyohanis)
